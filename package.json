@@ -1,0 +1,22 @@
+{
+  "name": "angular_calendar",
+  "version": "1.0.0",
+  "description": "Practicing with angular by making a calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidPark2/angular_calendar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidPark2/angular_calendar/issues"
+  },
+  "homepage": "https://github.com/DavidPark2/angular_calendar#readme",
+  "dependencies": {
+    "angular": "^1.6.1"
+  }
+}
