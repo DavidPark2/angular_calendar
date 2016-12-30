@@ -18,5 +18,14 @@
   "homepage": "https://github.com/DavidPark2/angular_calendar#readme",
   "dependencies": {
     "angular": "^1.6.1"
+  },
+  "devDependencies": {
+    "angular": "^1.6.1",
+    "angular-mocks": "^1.6.1",
+    "angular-ui-router": "^0.3.2",
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.3.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.1.0"
   }
 }
