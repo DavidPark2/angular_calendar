@@ -1,0 +1,22 @@
+{
+  "name": "angular_calendar",
+  "description": "Practicing with angular by making a calendar",
+  "main": "index.js",
+  "authors": [
+    "david <dpark543107@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/DavidPark2/angular_calendar",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.6.1",
+    "angular": "^1.6.1",
+    "angular-resource": "^1.6.1"
+  }
+}
